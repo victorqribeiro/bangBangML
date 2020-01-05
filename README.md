@@ -6,6 +6,8 @@ Watch a Neural Network learns how to shoot a target.
 
 [Live version](https://victorribeiro.com/bangBangML)
 
+[Watch the video of the Neural Network learning ~ 20 minutes](https://www.youtube.com/watch?v=3FB92OOYqPI)
+
 ## About
 
 Halfway through creating a clone of the classic windows game [Bang Bang](https://archive.org/details/win3_BANGBANG) I realized I need a interesting Artificial Intelligence to play against the player. So I thought about having the opponent cannon be controlled by a Neural Network and learn how to shoot during run time. 
