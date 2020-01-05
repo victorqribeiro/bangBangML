@@ -87,7 +87,7 @@ const dist = (x1,x2,y1,y2) => {
 const draw = () => {
 	c.clearRect(0,0,w,h)
 	c.fillStyle = "black"
-	c.fillText("Accurary: "+parseFloat(hits/totalShots).toFixed(4), 20, 30 )
+	c.fillText("Accuracy: "+parseFloat(hits/totalShots).toFixed(4), 20, 30 )
 	cannon.show()
 	if( cannonBall )
 		cannonBall.show()
