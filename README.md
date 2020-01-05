@@ -15,8 +15,10 @@ Halfway through creating a clone of the classic windows game [Bang Bang](https:/
 
 I came up with this algorithm to train the Neural Network. 
 
-1 - Shoot it at random  
-2 - If the shot was to the left of the target, adjust the weights to the right and vice and versa. On this step I'm not saving the training data, as I don't care for a miss shot.  
+1 - Shoot it at random
+
+2 - If the shot was to the left of the target, adjust the weights to the right and vice and versa. On this step I'm not saving the training data, as I don't care for a miss shot.
+
 3 - After a hit, collect the data and use it to further train the Neural Network. This data is stored as it is a good example of how to shoot a target.  
 
 ## Application
